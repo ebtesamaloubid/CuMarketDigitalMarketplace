@@ -1,0 +1,100 @@
+Bob
+Bike for sale
+misc
+Old bike, no rust
+80.00
+Cindy
+Old books
+books
+old books, just like the title says
+10.00
+Franky
+Toyota Tundra
+cars
+2005 Toyota Tundra, 4x4, 4 door, 5.7L V8
+10000.00
+Wallace
+Macbook Pro
+computers
+2015 Macbook Pro, 15 inch, 16GB RAM, 512GB SSD
+1500.00
+Sally
+Clothing, size 10
+clothing
+size 10 clothing, various items, serious offers only!
+20.00
+Julie
+Couch for sale
+furniture
+Couch for sale, 3 seater, no rips or tears
+100.00
+Ronald McDonald
+Some old burgers
+misc
+Old burgers, still good, barely eaten
+5.00
+Burger King
+Half box of fries
+misc
+Half box of fries, little stale, some ketchup
+2.00
+Linda
+CDs from the 80's
+music
+These CDs really rock
+50.00
+Frankenstein
+Old computer
+computers
+Old computer, no monitor, no keyboard, no mouse, no motherboard, no hard drive, no power supply, no case, no lowballers
+10.00
+Dr. Frankenstein
+Body parts
+misc
+Body parts, various, some used, some new
+1000.00
+Dracula
+Ford Mustang
+cars
+2010 Ford Mustang, 4.0L V6, 5 speed manual, some red stains on the seats
+5000.00
+Wolfman
+Old clothes
+clothing
+Old clothes, some tearing and dog hair
+5.00
+Mummy
+hieroglyphics
+books
+Ancient hieroglyphics, some fading, some water damage, spells may still work
+100.00
+King Tut
+Palace Throne
+furniture
+Old chair, some stains, some creaking
+500.00
+Rick Astley
+12 inch single
+music
+Never Gonna Give You Up, Never Gonna Let You Down, Never Gonna Run Around and Desert You
+100.00
+Mike Tyson
+Boxing gloves
+misc
+some blood stains
+50.00
+Donner Party
+Frozen meat
+misc
+Frozen meat, some freezer burn, some frostbite
+10.00
+Mummy
+bandages
+clothing
+Used bandages, little dusty
+5.00
+Cardi B
+Vinyl records
+music
+Vinyl records, various, some scratches
+5.00
